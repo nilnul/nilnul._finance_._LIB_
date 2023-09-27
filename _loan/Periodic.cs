@@ -11,7 +11,7 @@ namespace nilnul.finance._loan
 	/// compute the interest rate of credit card accrue.
 	/// Mortgages are types of loans that are secured with real estate or personal property. 
 	/// </summary>
-	static public partial class Periodic
+	static public  class Periodic
 	{
 		public const double RATE_CEIL = 1000;
 		static public double Rate(uint periods, double paymentEveryPeriod, double credit,bool payAtTheEnd) {

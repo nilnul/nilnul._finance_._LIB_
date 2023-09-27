@@ -9,8 +9,8 @@ namespace nilnul.finance.interest
 	static public class _DiscountX
 	{
 		static public double OfExpRate(double exponentRate, double time, double futureVal) {
-			return futureVal / Math.Exp(
-				time*exponentRate
+			return futureVal * Math.Exp(
+				-time*exponentRate
 			); 
 		}
 

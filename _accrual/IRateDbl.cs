@@ -5,6 +5,9 @@ using System;
 
 namespace nilnul.finance._accrual
 {
+	/// <summary>
+	/// 
+	/// </summary>
 	public interface Rate4dblI
 		:_accrual.IRate
 	{

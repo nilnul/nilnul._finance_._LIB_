@@ -6,6 +6,19 @@ using System.Threading.Tasks;
 
 namespace nilnul.finance
 {
+	/// <summary>
+	/// intereset
+	/// </summary>
+	/// alias:
+	///		interest
+	///		value
+	///		discount
+	///		revenue
+	///		income
+	///		account
+	///		entity
+	///		ledger
+	///		
 	static public class _AccrualX
 	{
 		/// <summary>

@@ -1,6 +1,11 @@
 ﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
+
+/*
+ about resource_.money;
+generally not including time; for time, see: nilnul.task;
+ */
  
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information

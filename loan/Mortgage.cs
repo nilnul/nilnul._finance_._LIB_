@@ -12,10 +12,12 @@ namespace nilnul.finance.loan
 	/// Mortgages are types of loans that are secured with real estate or personal property. 
 	/// </summary>
 	/// 
-	static public partial class MortgageX
+	static public  class MortgageX
 	{
 		public const double RATE_CEIL = 1000;
-		static public double Rate(uint periods, double paymentEveryPeriod, double credit,bool payAtTheEnd) {
+		static public double Rate(
+			uint periods, double paymentEveryPeriod, double credit,bool payAtTheEnd
+		) {
 
 			if (payAtTheEnd)
 			{

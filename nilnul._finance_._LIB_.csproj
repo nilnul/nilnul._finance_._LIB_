@@ -107,43 +107,43 @@
       <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="nilnul.collection_._discrete_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\nilnul.collection_._discrete_._LIB_.1.1.220728.140313\lib\net48\nilnul.collection_._discrete_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul.collection_._discrete_._LIB_.1.1.230611.40617-sym\lib\net481\nilnul.collection_._discrete_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul.num._integer_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\nilnul.num._integer_._LIB_.1.1.230206.161540-sym\lib\net481\nilnul.num._integer_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul.num._integer_._LIB_.1.1.230515.93530-sym\lib\net481\nilnul.num._integer_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul.num._quotient_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\nilnul.num._quotient_._LIB_.1.1.230307.155454-sym\lib\net481\nilnul.num._quotient_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul.num._quotient_._LIB_.1.1.230716.154720-sym\lib\net481\nilnul.num._quotient_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul.num._real_._LIB_, Version=2.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\nilnul.num._real_._LIB_.2.1.220818.53104\lib\net48\nilnul.num._real_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul.num._real_._LIB_.2.1.230927.170016-sym\lib\net481\nilnul.num._real_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._bit_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\nilnul._bit_._LIB_.1.1.230227.141902-sym\lib\net481\nilnul._bit_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._bit_._LIB_.1.1.230730.133415-sym\lib\net481\nilnul._bit_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._character_._LIB_, Version=2.1.8387.39356, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\nilnul._character_._LIB_.2.1.221218.135114\lib\net481\nilnul._character_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._character_._LIB_.2.1.230921.130306-sym\lib\net481\nilnul._character_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._num_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\nilnul._num_._LIB_.1.1.230211.165852-sym\lib\net481\nilnul._num_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._num_._LIB_.1.1.230829.123111-sym\lib\net481\nilnul._num_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._num_._LINQ_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\nilnul._num_._LINQ_.1.1.230204.111417-sym\lib\net481\nilnul._num_._LINQ_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._num_._LINQ_.1.1.230812.84946-sym\lib\net481\nilnul._num_._LINQ_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._obj_._LIB_, Version=1.2.0.0, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\nilnul._obj_._LIB_.1.2.230219.75946-sym\lib\net481\nilnul._obj_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._obj_._LIB_.1.2.230927.105331-sym\lib\net481\nilnul._obj_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._rel_._LIB_, Version=1.2.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\nilnul._rel_._LIB_.1.2.220817.152548\lib\net48\nilnul._rel_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._rel_._LIB_.1.2.230914.142205-sym\lib\net481\nilnul._rel_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._set_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\nilnul._set_._LIB_.1.1.220905.140119\lib\net481\nilnul._set_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._set_._LIB_.1.1.230730.135726-sym\lib\net481\nilnul._set_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._time_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\nilnul._time_._LIB_.1.1.221120.114651\lib\net481\nilnul._time_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._time_._LIB_.1.1.230319.90029-sym\lib\net481\nilnul._time_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._txt_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\nilnul._txt_._LIB_.1.1.221218.142109\lib\net481\nilnul._txt_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._txt_._LIB_.1.1.230925.84753-sym\lib\net481\nilnul._txt_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
@@ -162,10 +162,10 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="_nilnul_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\_nilnul_._LIB_.1.1.230219.83348-sym\lib\net481\_nilnul_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\_nilnul_._LIB_.1.1.230728.104656-sym\lib\net481\_nilnul_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="_nilnul_._LINQ_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\nilnul.finance._capital_\_LIB4FX_(Git\packages\_nilnul_._LINQ_.1.1.230219.73454-sym\lib\net481\_nilnul_._LINQ_.dll</HintPath>
+      <HintPath>..\..\.deps\_nilnul_._LINQ_.1.1.230709.141821-sym\lib\net481\_nilnul_._LINQ_.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -186,10 +186,14 @@
     <Compile Include="entry\str\Periodic.cs" />
     <Compile Include="accrual\interest\PresentVal.cs" />
     <Compile Include="accrual\interest\Discount.cs" />
+    <Compile Include="Invest.cs" />
+    <Compile Include="invest\divvy\on_\rate_\DiscountsOfRate.cs" />
     <Compile Include="IStock.cs" />
+    <Compile Include="IVenture.cs" />
     <Compile Include="loan\IAmortization.cs" />
     <Compile Include="nilnul0\IFinance.cs" />
     <Compile Include="svr_\paypal\evt_\Notice.cs" />
+    <Compile Include="venture\present\on_\rate_\DiscountsOfRate.cs" />
     <Compile Include="_accrual\IRateDbl.cs" />
     <Compile Include="_accrual\RateDbl.cs" />
     <Compile Include="_accrual\rate\Convert.cs" />
@@ -198,6 +202,7 @@
     <Compile Include="_accrual\rate_\additional\op_\unary_\Slice.cs" />
     <Compile Include="_accrual\rate_\FivePercentOv360days.cs" />
     <Compile Include="_accrual\rate_\FivePercentYearly.cs" />
+    <Compile Include="_accrual\rate_\IExponent.cs" />
     <Compile Include="_accrual\rate_\multi\Slice.cs" />
     <Compile Include="_accrual\rate_\_\Compound.cs" />
     <Compile Include="_accrual\rate_\_\Exp.cs" />
@@ -238,6 +243,8 @@
     <Folder Include="nilnul0\_finance\" />
     <Folder Include="personal\revenue\_tax\" />
     <Folder Include="stock\" />
+    <Folder Include="venture\discount\" />
+    <Folder Include="venture_\" />
     <Folder Include="_accrual\rate\convert\" />
     <Folder Include="_accrual\rate\op_\" />
     <Folder Include="_accrual\_rate\" />
